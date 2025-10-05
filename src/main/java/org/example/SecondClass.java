@@ -6,6 +6,7 @@ public class SecondClass {
         System.out.println("Hello from GitHub");
         System.out.println("Hello Poland");
         System.out.println("Hello from GitHub AGAIN");
+        System.out.println("Hello from GitHub AGAIN 2");
     }
 
 
